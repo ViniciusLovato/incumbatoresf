@@ -1,0 +1,25 @@
+{
+  "name": "wr_stack_monit",
+  "version": "1.0.0",
+  "description": "# Starting Run: `node server.js`",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.16.3",
+    "socket.io": "^2.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/filiagees/incumbatoresf/tree/develop/wr_stack_monit"
+  },
+  "keywords": [
+    "socket.io",
+    "monitoring"
+  ],
+  "author": "filiagees",
+  "license": "ISC"
+}
